@@ -7761,7 +7761,6 @@
 ./images/54/337.jpg
 ./images/54/344.jpg
 ./images/54/348.jpg
-./images/54/350.jpg
 ./images/54/351.jpg
 ./images/54/352.jpg
 ./images/54/358.jpg
